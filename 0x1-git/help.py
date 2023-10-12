@@ -1,2 +1,2 @@
 #!/usr/bin/env python3
-print("World")
+print("The World is Yours!")
