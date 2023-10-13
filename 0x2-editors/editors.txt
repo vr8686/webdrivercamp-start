@@ -1,0 +1,15 @@
+0 - to open a file from Emacs use C-x C-f, then type filename and press Return
+1 - to save the file you are working on use C-x C-s
+2 - use C-k if you are in the beginning of the line or C-k C-k in any other position of the cursor
+3 - C-y
+4 - use C-s to search forward
+5 - C-Shift-_ to undo
+6 - use C-x C-c to quit Emacs
+7 - use i in command mode to insert text before the cursor
+8 - use dd in command mode to delete and cut the current line
+9 - use (p) to paste the line after the current line
+10 - there are several options to undo the last change: use (u) in command mode, type :u or :undo and press Return
+11 - :q! in command mode to exit the editor without saving
+12 - use 0 or Shift-^ in command mode or fn-leftarrow in insert mode
+13 - use Shift-a or Shift-$ in command mode or fn-rightarrow in insert mode
+
